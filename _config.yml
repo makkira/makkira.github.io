@@ -22,7 +22,7 @@ url: "https://patdryburgh.github.io" # the base hostname & protocol for your sit
 icon: /assets/images/ghp_header.jpg
 twitter_username: patdryburgh
 github_username: patdryburgh
-header_image: "/assets/images/new_banner.png"
+header_image: "/assets/images/ghp_banner.png"
 
 # Build settings
 markdown: kramdown
